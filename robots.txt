@@ -1,0 +1,4 @@
+User-agent: *
+Allow:
+
+Sitemap: http://slot-deposit-5000.de-rse.org/sitemap.xml
